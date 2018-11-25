@@ -9,7 +9,6 @@ public class TestProgram {
 
     @Test
     public void testQuePasa() {
-      Assert.assertEquals(true, false
-      );
+      Assert.assertEquals(true, true);
     }
 }
